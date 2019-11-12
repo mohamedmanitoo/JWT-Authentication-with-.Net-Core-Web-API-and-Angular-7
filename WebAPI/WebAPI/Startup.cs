@@ -34,9 +34,9 @@ namespace WebAPI
             services.Configure<ApplicationSettings>(Configuration.GetSection("ApplicationSettings"));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2); 
-
             services.AddDbContext<AuthenticationContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("IdentityConnection")));
+           // options.UseSqlServer(@"Data Source=DESKTOP-4QJPLA8\MSSQLSERVER02;Initial Catalog=newDB;User ID=sa;Password=sa"));
 
             services.AddDefaultIdentity<ApplicationUser>()
                 .AddEntityFrameworkStores<AuthenticationContext>();
