@@ -10,14 +10,14 @@ using WebAPI.Models;
 namespace WebAPI.Migrations
 {
     [DbContext(typeof(AuthenticationContext))]
-    [Migration("20191024103631_InitialCreate")]
+    [Migration("20190124045416_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "2.2.6-servicing-10079")
+                .HasAnnotation("ProductVersion", "2.2.0-rtm-35687")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 

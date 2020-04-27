@@ -15,7 +15,7 @@ export class LoginComponent implements OnInit {
     Password: ''
   }
   constructor(private service: UserService, private router: Router, private toastr: ToastrService) { }
-  //readonly BaseURI = 'http://localhost:54277/api';
+
   ngOnInit() {
     if (localStorage.getItem('token') != null)
       this.router.navigateByUrl('/home');

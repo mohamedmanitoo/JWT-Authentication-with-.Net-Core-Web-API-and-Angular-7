@@ -26,17 +26,3 @@ F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\
 F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
 F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
 F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
-D:\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
